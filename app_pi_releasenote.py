@@ -13,7 +13,7 @@ def display_release_notes():
     - その他、リリースノート掲載（バージョン情報からリンク）等軽微な修正
 
     ### 実装されている主な機能
-    - Q&A:自由に質問
+    - Q&A：自由に質問
     - Translation：英文の翻訳
     - Proofreading：日本語の文章の校正
     - Excel Formula Analysis：Excel関数の分析
@@ -34,7 +34,7 @@ def display_release_notes():
     - その他、モデル選択のボタン位置変更等軽微な修正
 
     ### 実装されている主な機能
-    - Q&A:自由に質問
+    - Q&A：自由に質問
     - Translation：英文の翻訳
     - Proofreading：日本語の文章の校正
     - Excel Formula Analysis：Excel関数の分析
@@ -50,7 +50,7 @@ def display_release_notes():
     - リリース日時：2023年8月29日 21:00
 
     ### 実装されている主な機能
-    - Q&A:自由に質問
+    - Q&A：自由に質問
     - Translation：英文の翻訳
     - Proofreading：日本語の文章の校正
     - Excel Formula Analysis：Excel関数の分析
