@@ -4,7 +4,7 @@ import streamlit as st
 # AI Assistant リリースノート
 
 ## V1.1.0
-- リリース日時：2023年9月5日 16:00
+- リリース日時:2023年9月5日 16:00
 
 ### バージョンアップの概要
 - トークン数カウント機能の追加（これに伴い、単語数・文字数カウント機能は削除）
@@ -12,12 +12,12 @@ import streamlit as st
 - その他、モデル選択のボタン位置変更等軽微な修正
 
 ### 実装されている主な機能
-- Q&A：自由に質問
-- Translation：英文の翻訳
-- Proofreading：日本語の文章の校正
-- Excel Formula Analysis：Excel関数の分析
-- VBA Analysis：VBAコードの分析
-- Data Analysis：ログデータ等の分析
+- Q&A:自由に質問
+- Translation:英文の翻訳
+- Proofreading:日本語の文章の校正
+- Excel Formula Analysis:Excel関数の分析
+- VBA Analysis:VBAコードの分析
+- Data Analysis:ログデータ等の分析
 
 ### 今後追加開発予定の機能
 - 出力結果のコピー / ダウンロード機能
@@ -25,15 +25,15 @@ import streamlit as st
 - ファイル読み込み機能
 
 ## V1.0.0
-- リリース日時：2023年8月29日 21:00
+- リリース日時:2023年8月29日 21:00
 
 ### 実装されている主な機能
-- Q&A：自由に質問
-- Translation：英文の翻訳
-- Proofreading：日本語の文章の校正
-- Excel Formula Analysis：Excel関数の分析
-- VBA Analysis：VBAコードの分析
-- Data Analysis：ログデータ等の分析
+- Q&A:自由に質問
+- Translation:英文の翻訳
+- Proofreading:日本語の文章の校正
+- Excel Formula Analysis:Excel関数の分析
+- VBA Analysis:VBAコードの分析
+- Data Analysis:ログデータ等の分析
 
 ### 実装されている補助的な機能
 - 認証機能の追加
